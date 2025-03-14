@@ -39,7 +39,7 @@ I'm a passionate **Data Scientist** and **AI enthusiast** with a strong backgrou
 ---
 
 ## 🌐 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/nitin-mishra-2bb993268)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-2bb993268/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Nitin16112002)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:bcs.animesh@gmail.com)  
 
