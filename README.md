@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nitin
-### 🚀 Aspiring Data Scientist | AI & ML Enthusiast 
+### 🚀 Aspiring Data Scientist | Top 5% Kaggle Competitor | ML & AI Practitioner | Google & Microsoft Certified | B.Tech CSE (AIML) Graduate 
 
 ---
 
